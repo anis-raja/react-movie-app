@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anis-raja/react-movie-app/static/css/main.48bd610e.css",
+    "main.js": "/anis-raja/react-movie-app/static/js/main.1eaa266a.js",
+    "index.html": "/anis-raja/react-movie-app/index.html",
+    "static/media/search.svg": "/anis-raja/react-movie-app/static/media/search.8abcf0e8b775d8fc7f832d4f63175a6a.svg",
+    "main.48bd610e.css.map": "/anis-raja/react-movie-app/static/css/main.48bd610e.css.map",
+    "main.1eaa266a.js.map": "/anis-raja/react-movie-app/static/js/main.1eaa266a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bd610e.css",
+    "static/js/main.1eaa266a.js"
+  ]
+}
